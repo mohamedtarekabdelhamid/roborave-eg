@@ -30,7 +30,3 @@ To run the project locally, use `php artisan serve` and open `http://localhost:8
 ### Contributing
 
 Contributions are welcome! Please fork the project, create a new branch, commit your changes, and open a pull request.
-
-### License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
