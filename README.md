@@ -6,7 +6,7 @@ This is the official website for RoboRAVE Egypt, a competition that encourages S
 
 ### Prerequisites
 
-- PHP 7.2 or higher
+- PHP 8
 - Composer
 - MySQL or MariaDB
 
